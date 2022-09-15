@@ -1,0 +1,22 @@
+https://github.com/
+Basila Noushad19:22
+touch Readme.md
+Basila Noushad19:25
+https://github.com/
+Basila Noushad19:32
+git config --global user.name "Your Name"
+Basila Noushad19:49
+git config --global user.email "youremail@yourdomain.com"
+Basila Noushad20:00
+git init
+Basila Noushad20:01
+git add readme.md
+git status
+Jayashri Jankar20:02
+git status
+Basila Noushad20:05
+git commit -m" "first commit"
+Basila Noushad20:07
+git push origin master
+Namratha sn20:36
+By mistake I clicked on share screen mam
